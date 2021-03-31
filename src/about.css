@@ -1,0 +1,51 @@
+/*
+Jiaying Lin
+Oct 12, 2020
+*/
+
+main {
+	width: 50%;
+}
+
+main h1, main h2{
+	text-align: center;	
+}
+
+main img{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+main p{
+	text-indent: 2em;	
+}
+
+#founder{
+	float: right;
+	width: 30%;
+	height: auto;
+	min-width: 250px;
+}
+
+@media only screen and (max-width: 1920px) {
+	#founder{
+		width: 40%;
+	}
+}
+
+@media only screen and (max-width: 1620px) {
+	main {
+	width: 95%;
+	}
+	#founder{
+		width: 30%;
+	}
+}
+
+@media only screen and (max-width: 900px) {
+	#founder{
+	display: none;
+	}
+}

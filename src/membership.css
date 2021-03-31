@@ -1,0 +1,23 @@
+/*
+Jiaying Lin
+Oct 12, 2020
+*/
+
+main {
+	width: 50%;
+	min-width: 900px;
+}
+
+input{
+	padding: 0;
+	margin: 0;
+}
+
+form p{
+	padding: 0;
+	margin: 0;	
+}
+
+#imageBox{
+	float: right;
+}

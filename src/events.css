@@ -1,0 +1,37 @@
+/* 
+Jiaying Lin
+Oct 12, 2020
+*/ 
+
+main h1{
+	text-align: Center;
+}
+
+ul{
+	list-style-type: none;
+	border: 2px solid;
+	margin: 0;
+	padding: 3px;
+}
+
+ul:hover {
+  background-color: white;
+}
+
+
+li{
+	font-size: 15px;
+}
+
+.title {
+	font-size: 30px;
+}
+
+.virtual {
+	border: 2px dotted #0011ff;
+}
+
+#addEvent{
+	margin: 10px auto 10px auto;
+	padding: 5px;
+}

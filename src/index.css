@@ -1,0 +1,29 @@
+/***
+Jiaying Lin
+Oct 12, 2020
+***/
+
+main img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main h1{
+	text-align: center;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+main ul, main p{
+	text-align: center;
+	list-style-position: inside;
+}
+
+#imgContainer{
+	border-style: solid;
+	width: 800px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
